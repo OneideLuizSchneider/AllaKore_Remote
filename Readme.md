@@ -15,10 +15,10 @@ First of all, I apologize for my English because it is not my native language. I
 -----------------------------------------------------------------------
 
 
-All components used are native to Delphi itself.
+#All components used are native to Delphi itself.
 
 
-There are some observations to be taken before opening the project:
+<strong>There are some observations to be taken before opening the project:</strong>
 
 * You should install the Delphi XE, the DCLSockets component. Simply open the Delphi XE, click "Component" -> "Install Packages". Now click "Add", now go in the "Bin" folder in the installation of Delphi XE (Example: C:\Program Files (x86)\Embarcadero\Studio\14.0\bin) and open the "dclsocketsXXX.bpl" file. The XXX are numbers according to your version of Delphi.
 * Indy10 was presenting MANY problems during the development, so I had to make some decisions to complete the project. For the correct operation of the software, we had to use Delphi to write XE6 Client and Delphi 7 to write the Server. Then, the client must be opened in Delphi XE and the Server in Delphi 7.
@@ -30,7 +30,7 @@ There are some observations to be taken before opening the project:
 
 
 
-AllaKore Remote has the following functions:
+<strong>AllaKore Remote has the following functions:</strong>
 
 * Connection ID and Password.
 * Remote access with RFB algorithm (Send only what has changed on the screen).
