@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2015/05/08 11:16:42.000.095,=C:\Users\Maickonn\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2015/05/08 11:20:36.000.121,=C:\Users\Maickonn\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2015/05/11 15:02:16.000.817,=C:\Users\Maickonn\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2015/05/28 11:00:25.000.113,=C:\Users\Maickonn\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2015/05/28 11:03:58.000.308,=C:\Users\Maickonn\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2015/10/06 15:35:01.000.184,=C:\Users\Maickonn\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2015/10/06 15:43:15.000.857,J:\Projetos\Delphi\AllaKore_Remote\Source\Cliente\Form_Main.pas=C:\Users\Maickonn\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2015/10/06 15:43:15.000.857,J:\Projetos\Delphi\AllaKore_Remote\Source\Cliente\Form_Main.dfm=C:\Users\Maickonn\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2015/10/06 15:43:34.000.016,J:\Projetos\Delphi\AllaKore_Remote\Source\Cliente\AllaKore_Remote_Client.dproj=C:\Users\Maickonn\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2015/10/06 16:51:43.000.868,=J:\Projetos\Delphi\AllaKore_Remote\Source\Cliente\Unit2.pas</Transaction>
+    <Transaction>2015/10/06 16:53:07.000.745,J:\Projetos\Delphi\AllaKore_Remote\Source\Cliente\Unit2.dfm=J:\Projetos\Delphi\AllaKore_Remote\Source\Cliente\Form_Password.dfm</Transaction>
+    <Transaction>2015/10/06 16:53:07.000.745,J:\Projetos\Delphi\AllaKore_Remote\Source\Cliente\Unit2.pas=J:\Projetos\Delphi\AllaKore_Remote\Source\Cliente\Form_Password.pas</Transaction>
+    <Transaction>2015/10/06 17:05:26.000.683,=J:\Projetos\Delphi\AllaKore_Remote\Source\Cliente\Unit1.pas</Transaction>
+    <Transaction>2015/10/06 17:12:19.000.356,J:\Projetos\Delphi\AllaKore_Remote\Source\Cliente\Unit1.pas=J:\Projetos\Delphi\AllaKore_Remote\Source\Cliente\Form_RemoteScreen.pas</Transaction>
+    <Transaction>2015/10/06 17:12:19.000.356,J:\Projetos\Delphi\AllaKore_Remote\Source\Cliente\Unit1.dfm=J:\Projetos\Delphi\AllaKore_Remote\Source\Cliente\Form_RemoteScreen.dfm</Transaction>
+    <Transaction>2015/10/10 17:35:56.000.665,=J:\Projetos\Delphi\AllaKore_Remote\Source\Client\Unit1.pas</Transaction>
+    <Transaction>2015/10/10 17:36:17.000.536,J:\Projetos\Delphi\AllaKore_Remote\Source\Client\Form_Chat.pas=J:\Projetos\Delphi\AllaKore_Remote\Source\Client\Unit1.pas</Transaction>
+    <Transaction>2015/10/10 17:36:17.000.536,J:\Projetos\Delphi\AllaKore_Remote\Source\Client\Form_Chat.dfm=J:\Projetos\Delphi\AllaKore_Remote\Source\Client\Unit1.dfm</Transaction>
+    <Transaction>2015/10/10 19:55:46.000.770,=J:\Projetos\Delphi\AllaKore_Remote\Source\Client\Unit1.pas</Transaction>
+    <Transaction>2015/10/10 19:57:41.000.737,J:\Projetos\Delphi\AllaKore_Remote\Source\Client\Unit1.dfm=J:\Projetos\Delphi\AllaKore_Remote\Source\Client\Form_ShareFiles.dfm</Transaction>
+    <Transaction>2015/10/10 19:57:41.000.737,J:\Projetos\Delphi\AllaKore_Remote\Source\Client\Unit1.pas=J:\Projetos\Delphi\AllaKore_Remote\Source\Client\Form_ShareFiles.pas</Transaction>
+  </Transactions>
+</BorlandProject>
